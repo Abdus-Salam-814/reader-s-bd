@@ -1,0 +1,100 @@
+  /*  Google font Style class Sterted here  */
+
+.roboto-thin {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+  
+  .roboto-light {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .roboto-regular {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .roboto-medium {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  .roboto-bold {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .roboto-black {
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+  
+  .roboto-thin-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: italic;
+  }
+  
+  .roboto-light-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+  }
+  
+  .roboto-regular-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .roboto-medium-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: italic;
+  }
+  
+  .roboto-bold-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+  
+  .roboto-black-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: italic;
+  }
+  /*  Google font Style class Ends here  */
+  .our-classes-bg{
+    background-image: url(/images/our-class-bg.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+   
+  }
+  .class-techers-bg{
+    background-image: url(/images/techer-Courses-bg.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+   
+  }
+  .about-us-bg{
+    background-image: url(/images/bg-about.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    
+  }
+  .title-color{
+    color: #A0A0A0;
+    
+  }
+  .title-text-color{
+    color: #A0A0A0;
+  }
+
