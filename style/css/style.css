@@ -85,7 +85,7 @@
    
   }
   .about-us-bg{
-    background-image: url(/images/bg-about.png);
+    /* background-image: url(/images/bg-about.png); */
     background-size: 100% 100%;
     background-repeat: no-repeat;
     
