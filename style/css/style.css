@@ -73,7 +73,10 @@
   }
   /*  Google font Style class Ends here  */
   .our-classes-bg{
-    background-image: url(/images/our-class-bg.png);
+    
+
+    /* bg-[url(images/our-class-bg.png)] */
+
     background-size: 100% 100%;
     background-repeat: no-repeat;
    
